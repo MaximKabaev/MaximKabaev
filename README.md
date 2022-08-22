@@ -1,4 +1,4 @@
-<h1 align="center"><img scr="https://github.com/MaximKabaev/MaximKabaev/blob/main/header.png?raw=true" alt="header"/></h1>
+<img src="https://github.com/MaximKabaev/MaximKabaev/blob/main/header.png?raw=true" alt="header" align="center"/>
 <h3 align="center">A passionate Web developer from Russia</h3>
 
 - 📝 I regularly write articles on [https://www.albinauric.com/Blog/blog.html](https://www.albinauric.com/Blog/blog.html)
@@ -16,5 +16,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maximkabaev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maximkabaev" /></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximkabaev&show_icons=true&theme=dark&locale=en&layout=compact" alt="maximkabaev"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximkabaev&show_icons=true&theme=dark&locale=en&layout=compact" alt="maximkabaev" align="center"/></p>
 
