@@ -16,4 +16,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maximkabaev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maximkabaev" /></a></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maximkabaev&theme=dark" alt="maximkabaev"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximkabaev&show_icons=true&theme=dark&locale=en&layout=compact" alt="maximkabaev"/></p>
+
