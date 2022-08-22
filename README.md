@@ -1,4 +1,4 @@
-<h1 align="center"><img scr="https://github.com/MaximKabaev/MaximKabaev/blob/main/header.png" alt="header"/></h1>
+<h1 align="center"><img scr="https://github.com/MaximKabaev/MaximKabaev/blob/459bfd540e0afbc8e5223c725b47fbce82b0406f/header.png" alt="header"/></h1>
 <h3 align="center">A passionate Web developer from Russia</h3>
 
 - 📝 I regularly write articles on [https://www.albinauric.com/Blog/blog.html](https://www.albinauric.com/Blog/blog.html)
