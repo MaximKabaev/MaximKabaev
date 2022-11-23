@@ -1,9 +1,7 @@
 <img src="https://github.com/MaximKabaev/MaximKabaev/blob/main/header.png?raw=true" alt="header" align="center"/>
 <h3 align="center">A passionate Web developer from Russia</h3>
 
-- 📝 I regularly write articles on [https://www.albinauric.com/Blog/blog.html](https://www.albinauric.com/Blog/blog.html)
-
-- 📫 How to reach me **albinauric21@gmail.com**
+- 📫 How to reach me **albinauricdev@gmail.com**
 
 - 👾 Make sure to check out my games on [itch.io](https://zeropigames.itch.io/)
 
